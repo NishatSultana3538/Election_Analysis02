@@ -1,10 +1,18 @@
 # Election_Analysis
-Election result analysis using python
+
 ## Overview of Election Audit: 
-Explain the purpose of this election audit analysis.
+A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election.
+ 1. Calculate the total number of vote cast.
+ 2. Get a complete list of candidates who received votes.
+ 3. Calculate the total number of votes each candidates received.
+ 4. Calculate the percentage of vote each candidayte won.
+ 5. Determine the winner of election based on popular votes.
+
+## Resources
+* Data Source:election_results.csv
+* Software: Python , Visual Studio code.
 
 ## Election-Audit Results:
-Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 
 ## How many votes were cast in this congressional election?
 
@@ -12,13 +20,14 @@ Using a bulleted list, address the following election outcomes. Use images or ex
 2. Which county had the largest number of votes? -The county Denver got the largest number of votes.
 3. Provide a breakdown of the number of votes and the percentage of the total votes each candidate received-Charles Casper Stockham received 85,213 votes which is 23.0% of total votes, Raymon Anthony Doane got 11,606 votes which is 3.1% of total votes and Diana DeGette has received 272,892 votes which is  73.8% of total vote.
 4. Which candidate won the election, what was their vote count, and what was their percentage of the total votes?- Diana DeGette has won the election, her total vote count was 272,892 and she got 73.8% of total vote.
+
+
 ## Election-Audit Summary: 
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. 
+To the Election Commission : This election audit script can be used for any election by doing necessary changes in the code that uses a ballot for vote count.
 
-Give at least two examples of how this script can be modified to be used for other elections.
-
-1. This script can be used to analyze United States presidential election to count the votes of every state and find the winner for every state from different political party and that data can be used to find the winner of United States presidential election by using additional calculation of electoral vote system.We can also get which party get the highest total vote by adding the total vote of every state which is known as popular vote.
-3. This script can also be used for diffent state Mayor election.
+  1. This script can be used with modifications to analyze United States presidential election to count the votes of every state and find the winner for every state from different political party and that data can be used to find the winner of United States presidential election by using additional calculation of electoral vote system.We can also get which party get the highest total vote by adding the total vote of every state which is known as popular vote.
+  
+  2. This script can also be used for different state Mayor election. We can calculate the total number of vote cast, get a complete list of candidates who received votes, calculate the total number of votes for each candidates received, calculate the percentage of vote each candidayte won and finally determine the winner of election based on popular votes.We can also gete the voter turnout of each county.
 
 
 
