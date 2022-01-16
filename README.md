@@ -17,6 +17,9 @@ In a summary statement, provide a business proposal to the election commission o
 
 Give at least two examples of how this script can be modified to be used for other elections.
 
+1. This script can be used to analyze United States presidential election to count the votes of every state and find the winner for every state from different political party and that data can be used to find the winner of United States presidential election by using additional calculation of electoral vote system.We can also get which party get the highest total vote by adding the total vote of every state which is known as popular vote.
+3. This script can also be used for diffent state Mayor election.
+
 
 
 
