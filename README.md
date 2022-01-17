@@ -29,7 +29,7 @@ The results printed in text file:[election-results](https://github.com/NishatSul
 
 ## Election-Audit Summary: 
 To the Election Commission : This election audit script [PyPoll-Challenge.py](https://github.com/NishatSultana3538/Election_Analysis02/blob/main/PyPoll_Challenge.py) 
-![PyPoll-Challenge.py.png]()
+![PyPoll-Challenge.py.png](https://github.com/NishatSultana3538/Election_Analysis02/blob/main/analysis/PyPoll_Challenge.py.png)
 
 can be used for any election by doing necessary changes in the code that uses a ballot for vote count.
 
