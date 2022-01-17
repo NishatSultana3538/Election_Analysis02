@@ -28,7 +28,10 @@ The results printed in text file:[election-results](https://github.com/NishatSul
 
 
 ## Election-Audit Summary: 
-To the Election Commission : This election audit script [PyPoll-Challenge.py](https://github.com/NishatSultana3538/Election_Analysis02/blob/main/PyPoll_Challenge.py) can be used for any election by doing necessary changes in the code that uses a ballot for vote count.
+To the Election Commission : This election audit script [PyPoll-Challenge.py](https://github.com/NishatSultana3538/Election_Analysis02/blob/main/PyPoll_Challenge.py) 
+![PyPoll-Challenge.py.png]()
+
+can be used for any election by doing necessary changes in the code that uses a ballot for vote count.
 
   1. This script can be used with modifications to analyze United States presidential election to count the votes of every state and find the winner for every state from different political party and that data can be used to find the winner of United States presidential election by using additional calculation of electoral vote system.We can also get which party get the highest total vote by adding the total vote of every state which is known as popular vote.
   
